@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Implicit Intent</string>
+
+    <string name="good_news">Good News</string>
+    <string name ="verse">For God so loved the world, that he gave his only begotten Son, that whosoever believes in him should not perish, but have everlasting life.</string>
+</resources>
